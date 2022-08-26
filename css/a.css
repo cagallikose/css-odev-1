@@ -1,0 +1,32 @@
+/****************************************** Layout**************************************************/
+body {
+    text-align: center;
+    font-family:'Silkscreen', cursive;;
+    background-color: #499cb1;
+}
+ul {
+    list-style-position:inside;
+    display: inline-block;
+    text-align: left;
+}
+li {
+    position:relative;
+}
+
+h1{
+    background-color: #542eff;
+    color: purple;
+    
+    
+}
+h2{
+    background-color:#0c0c0c ;
+    color: red;
+}
+
+.nav-list{
+    float: left;
+    list-style-position: inside;
+    display: block;
+    padding: 14px;
+}
